@@ -1,0 +1,31 @@
+.main-container {
+    display: grid;
+        height: 100%;
+        width: 100%;
+        justify-content: center;
+        background: -webkit-linear-gradient(left, #a445b2, #fa4299);
+}
+
+form {
+    display: grid;
+}
+
+input {
+    height:25px;
+    border-radius: 7px;
+    margin-top: 7px;
+    box-shadow: #a445b2;
+}
+
+button {
+    width: 90px;
+    height:25px;
+    border-radius: 5px;
+    margin-top: 14px;
+    margin-bottom: 5px;
+    background-color:#f3f3f3;
+    font-family: arial;
+    font-size: 14px;
+    color: #111;
+    cursor:pointer;
+    }
